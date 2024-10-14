@@ -21,6 +21,27 @@ Follow the following steps to do this:
  6. Build & Run.
  7. The Editor should open and you should be good to go!
 
+Demo Rules
+----
+ - You should choose one of the following to focus on implementing:
+   - A new movement feature.
+   - A new gameplay system.
+   - An entirely new type of weapon.
+ - You should use C++ as much as possible.
+ - Blueprints usage is fine for trival setup work that would be cumbersome via C++ (UI/Widgets/GameMode etc)
+
+Submitting Your Demo
+----
+In order to submit your demo, you will need to upload a packaged version of your game via OneDrive. The link for this will be provided to you.
+
+To create a package follow these steps:
+ 1. Click **Platforms** > **Windows** > **Package Project** (See below image)
+ 2. Choose a suitable location on disk.
+ 3. Wait for the package process to complete (this may take a while...)
+ 4. Zip up the "**Windows**" folder in the location you chose above.
+ 5. Upload the zipped package to OneDrive.
+
+![PackageWin64](Images/PackageWin64.png)
 
 Additional Information
 ----

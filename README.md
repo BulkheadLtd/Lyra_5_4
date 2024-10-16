@@ -28,18 +28,20 @@ Demo Rules
    - A new gameplay system.
    - An entirely new type of weapon.
  - You should use C++ as much as possible.
- - Blueprints usage is fine for trival setup work that would be cumbersome via C++ (UI/Widgets/GameMode etc)
+ - Complex code should be commented where appropriate.
+ - Blueprints usage is acceptable for trival setup work that would be cumbersome via C++ (UI/Widgets/GameMode etc).
+ - Make sure you test in both PIE (Play in Editor) & Packaged.
 
 Submitting Your Demo
 ----
-In order to submit your demo, you will need to upload a packaged version of your game via OneDrive. The link for this will be provided to you.
+In order to submit your demo, you will need to upload a packaged version of your game to an online hosting service such as OneDrive, Google Drive, DropBox etc.
 
 To create a package follow these steps:
  1. Click **Platforms** > **Windows** > **Package Project** (See below image)
  2. Choose a suitable location on disk.
  3. Wait for the package process to complete (this may take a while...)
  4. Zip up the "**Windows**" folder in the location you chose above.
- 5. Upload the zipped package to OneDrive.
+ 5. Upload the zipped package to a cloud service of your choice and contact BULKHEAD Recruitment with a link to this.
 
 ![PackageWin64](Images/PackageWin64.png)
 
